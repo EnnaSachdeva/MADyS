@@ -27,3 +27,7 @@ core/agent.py: Policy Selector agent, and primitive agents
 core/mod_utils.py: Helper functions
 
 core/test.py: Test the trained networks
+
+envs/rover_domain: multiagent coordination rover domain
+
+envs/env_wrapper.py: wrapper for env
