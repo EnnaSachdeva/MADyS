@@ -3,10 +3,11 @@
 # Code accompanying "Multiagent Learning via Dynamic Skill Selection"
 
 This code is written using the following packages:
-Python 3.6.9
-Pytorch 1.2
-Numpy 1.18.1
-Tensorboard
+
+- Python 3.6.9
+- Pytorch 1.2
+- Numpy 1.18.1
+- Tensorboard
 
 ## Code labels 
 
