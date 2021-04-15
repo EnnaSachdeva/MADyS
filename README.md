@@ -1,6 +1,6 @@
 
 
-# Code accompanying AAMAS-2021 Extended Abstract: Multiagent Learning via Dynamic Skill Selection (MADyS)
+# Code accompanying Multiagent Learning via Dynamic Skill Selection (MADyS)
 
 This code is written using the following packages:
 
